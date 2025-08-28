@@ -1,0 +1,8 @@
+inference-sdk
+supervision
+ultralytics
+opencv-python
+matplotlib
+numpy
+requests
+pillow
