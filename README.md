@@ -1,7 +1,7 @@
 <h1 align="center">👕 Virtual Try-On AI</h1>
 
 <p align="center">
-  <strong>AI-powered Virtual Try-On System</strong><br>
+  <strong>AI-powered Virtual Try-On System </strong><br>
   Built with <code>Roboflow</code>, <code>Ultralytics SAM</code>, and <code>Segmind SDXL</code>
 </p>
 
